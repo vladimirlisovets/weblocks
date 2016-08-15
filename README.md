@@ -18,6 +18,16 @@
   <li>Base sprites ( isometric blocks, textures, buildings & other objects ) for initial use.</li>
 </ul>
 
+#Other Features (in consideration)
+
+<ul>
+  <li>Modular.</li>
+  <li>Earthquake animation(s).</li>
+  <li>3D Rotation.</li>
+  <li>Large DB of licensed sprites.</li>
+  <li>CDN</li>
+</ul>
+
 <br/>
 
 ![ScreenShot](/../master/3d2f9e1902.jpg?raw=true "Heading Image")
