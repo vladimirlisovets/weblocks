@@ -29,7 +29,7 @@
   <li>Swap views, between - pure 2D, isometric and 3D, maybe.</li>
   <li>WebGL</li>
   <li>CDN</li>
-  <li>Gui Builder.</li>
+  <li>GUI Builder.</li>
 </ul>
 
 <br/>
