@@ -4,8 +4,6 @@
 
 ![ScreenShot](/../master/dd7e90056e.jpg?raw=true "Heading Image")
 
-<br/>
-
 #Features 
 
 <ul>
