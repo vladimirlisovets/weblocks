@@ -23,11 +23,13 @@
 <ul>
   <li>Modular.</li>
   <li>Earthquake animation(s).</li>
+  <li>Automatic or Manual road/river/lake/sea spawning.</li>
   <li>3D Rotation.</li>
   <li>Large DB of licensed sprites.</li>
   <li>Swap views, between - pure 2D, isometric and 3D, maybe.</li>
   <li>WebGL</li>
   <li>CDN</li>
+  <li>Gui Builder.</li>
 </ul>
 
 <br/>
