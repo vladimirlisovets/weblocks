@@ -25,7 +25,8 @@
   <li>Earthquake animation(s).</li>
   <li>3D Rotation.</li>
   <li>Large DB of licensed sprites.</li>
-  <li>Swap views, between - pure 2D, isometric and 3D.</li>
+  <li>Swap views, between - pure 2D, isometric and 3D, maybe.</li>
+  <li>WebGL</li>
   <li>CDN</li>
 </ul>
 
